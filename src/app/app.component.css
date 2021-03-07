@@ -1,0 +1,11 @@
+.mat-button.mat-primary, .mat-icon-button.mat-primary, .mat-stroked-button.mat-primary {
+    color: white;
+}
+.mat-button, .mat-icon-button, .mat-stroked-button {
+    color: white;
+    background: #673ab7;
+}
+.a{
+      color: white;
+      text-decoration: none;
+}
